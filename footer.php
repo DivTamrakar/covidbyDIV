@@ -1,0 +1,1 @@
+<div class="text-center p-3 pb-2"><h5> 2022 &copy;  nn xxxxxxxxxxxxxxxx .MCA dept. Shri ram institute of technology , xxx. All rights reserved.</h5></div>
